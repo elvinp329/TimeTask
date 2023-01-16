@@ -1,0 +1,15 @@
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\TasksTime.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\TasksTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\TasksTime.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\TasksTime.AssemblyInfo.cs
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\TasksTime.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TasksTime\TasksTime\bin\Debug\net6.0\TasksTime.exe
+C:\Users\user\Downloads\TasksTime\TasksTime\bin\Debug\net6.0\TasksTime.deps.json
+C:\Users\user\Downloads\TasksTime\TasksTime\bin\Debug\net6.0\TasksTime.runtimeconfig.json
+C:\Users\user\Downloads\TasksTime\TasksTime\bin\Debug\net6.0\TasksTime.dll
+C:\Users\user\Downloads\TasksTime\TasksTime\bin\Debug\net6.0\TasksTime.pdb
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\TasksTime.dll
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\refint\TasksTime.dll
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\TasksTime.pdb
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\TasksTime.genruntimeconfig.cache
+C:\Users\user\Downloads\TasksTime\TasksTime\obj\Debug\net6.0\ref\TasksTime.dll
